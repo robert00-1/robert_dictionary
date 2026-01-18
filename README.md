@@ -39,11 +39,10 @@ Dictionary API KEY =
 
 
 # screenshot
-![alt text](<Screenshot from 2026-01-18 21-04-34.png>)
-
-![alt text](<Screenshot from 2026-01-18 21-04-46.png>)
+![alt text](imageY.jpg)
 
 
+![alt text](imagex.jpg)
 
 
 # licenses
