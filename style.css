@@ -1,12 +1,12 @@
 body {
     padding: 10px;
-    background: #ddd;
+    background: #85a107;
     font-family: Arial, sans-serif;
     margin: 10px;
 
 }
 header {
-    background-color: blueviolet;
+    background-color: rgb(105, 11, 85);
     padding: 25px;
     text-align: center;
     border-bottom: 1px solid #ddd;
@@ -14,7 +14,7 @@ header {
 
 }
 header:hover {
-    background: #38b33c;
+    background: #a07313;
     box-shadow: 0 5px 8px rgba(0,0,0,0.1);
 }
 .content {

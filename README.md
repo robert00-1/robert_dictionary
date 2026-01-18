@@ -31,16 +31,20 @@ git clone https://github.com/robert00-1/robert_dictionary.git
   # Additional Setup Instructions
   Gradle secrets
   Before building the project make sure  to set up the following google Grade secrets
+ . DICTIONARY_API_KEY=your_real_dictionary_key
+   
+These secret should be added to your local repository file in the project root  directory
+Dictionary API KEY =
+ https://api.dictionaryapi.dev/api/v2/entries/en/${word}
 
 
 # screenshot
-![alt text](<Screenshot from 2026-01-15 06-14-52.png>)
+![alt text](<Screenshot from 2026-01-18 21-04-34.png>)
 
-![alt text](<Screenshot from 2026-01-15 06-15-03.png>)
+![alt text](<Screenshot from 2026-01-18 21-04-46.png>)
 
-![alt text](<Screenshot from 2026-01-15 06-25-22.png>)
 
-![alt text](<Screenshot from 2026-01-15 06-25-38.png>)
+
 
 # licenses
 Robert Dictionary is licenced under the MT licences see the LICENSE file for more details
